@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "517720120901",
+    "firebase_url": "https://whats-app-17f26.firebaseio.com",
+    "project_id": "whats-app-17f26",
+    "storage_bucket": "whats-app-17f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517720120901:android:ba215b0a04f8d7e1d38d2c",
+        "android_client_info": {
+          "package_name": "com.sharook.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517720120901-cdgjuc2ec7mvnbcm6t0fsiqg9ohi7fit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6lIToPQ7-rDFdZ8EkRuYIxbSqJTvyB70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517720120901-cdgjuc2ec7mvnbcm6t0fsiqg9ohi7fit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517720120901-a5h4gh36ep75rcm2ge5ud7algcj67lra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sharook.whatsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
